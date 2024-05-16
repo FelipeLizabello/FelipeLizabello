@@ -6,7 +6,7 @@ Under construction🚧👷‍♂️
 - 📖 Graduando em Sistema de Informação
 - 🏫 Universidade Estadual Paulista Júlio Mesquita Filho (Unesp)
 - Contato:
-- email: felipelizabello@gmai.com
+- email: felipelizabello@gmail.com
 - github: https://github.com/FelipeLizabello
 - beecrowd: https://judge.beecrowd.com/pt/profile/981406 
 
