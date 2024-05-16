@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeLizabello;
 - 👀 I’m interested in learning and solve problemns;
-- 🌱 I’m currently learning c (basic stuff);
+- 🌱 I’m currently learning c;
 - 😄 Pronouns: he/him;
 - ✈ Inglês avançado;
 - 🏫 Graduando da Universidade Estadual Paulista Júlio Mesquita Filho (Unesp);
