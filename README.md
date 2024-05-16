@@ -1,7 +1,7 @@
 Under construction🚧👷‍♂️
-- 👋 Hello, I’m @FelipeLizabello
-- 👀 I’m interested in learning and solve problemns
-- ⛓ I’m currently learning c,java
+- 👋 Olá, Sou @FelipeLizabello
+- 👀 Interessado em aprender e resolver problemas
+- ⛓ Eu estou aprendendo c,java
 - ✈ Inglês avançado
 - 📖 Graduando em Sistema de Informação
 - 🏫 Universidade Estadual Paulista Júlio Mesquita Filho (Unesp)
