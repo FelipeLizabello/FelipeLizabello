@@ -1,7 +1,6 @@
 Under construction🚧👷‍♂️
 - 👋 Olá, Sou @FelipeLizabello
 - 🧩 Interessado em aprender e resolver problemas
-- ⛓ Eu estou aprendendo c,java
 - ✈ Inglês avançado
 - 📖 Graduando em Sistema de Informação
 - 🏫 Universidade Estadual Paulista Júlio Mesquita Filho (Unesp)
