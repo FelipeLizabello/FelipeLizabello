@@ -1,4 +1,3 @@
-Under construction🚧👷‍♂️
 - 👋 Olá, Sou @FelipeLizabello
 - 🧩 Interessado em aprender e resolver problemas
 - ✈ Inglês avançado
