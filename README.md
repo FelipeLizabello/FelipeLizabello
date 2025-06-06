@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-- 🧩 Apaixonado por aprender e resolver problemas complexos
+- 🧩 Gosto de aprender e resolver problemas complexos
 - ✈ Inglês avançado
 - 🎓 Graduando em **Sistemas de Informação**
 - 🏫 Universidade Estadual Paulista Júlio Mesquita Filho (**Unesp**)
