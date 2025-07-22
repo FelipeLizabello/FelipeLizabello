@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  Sempre buscando novos desafios e oportunidades para crescer como desenvolvedor e como pessoa! 🚀
+  Sempre buscando novos desafios e oportunidades para crescer como desenvolvedor e pessoa! 🚀
 </p>
