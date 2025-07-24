@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Felipe Lizabello 👋</h1>
+<h1 align="center">Olá, eu sou o Felipe Fonseca Lizabello 👋</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Dev-C" height="40" />
